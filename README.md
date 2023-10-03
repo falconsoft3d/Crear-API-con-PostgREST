@@ -1,12 +1,3 @@
----
-title: ▷ Crear API con PostgREST
-date: 2023/10/03
-description: ▷ Crear API con PostgREST
-tag: postgresql, api
-author: Marlon Falcon Hernandez
----
-import Image from 'next/image'
-
 # ▷ Crear API con PostgREST
 
 PostgREST es una herramienta que nos permite crear una API REST de forma automática a partir de una base de datos PostgreSQL. En este articulo veremos pasa a paso como configurarlo en ubuntu 20.04.
